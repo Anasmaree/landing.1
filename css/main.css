@@ -103,9 +103,9 @@
     gap: 5PX;
 }
 .reg{
-    background-color: var(--mainColor);
+    background-color:var(--maincolor);
     padding: 10px;
-    
+    color: #fff;
 }
 .a{
     text-decoration: none;
@@ -205,8 +205,6 @@
 .Courses .row{
     display: flex;
     align-items: flex-start;
-    gap: 30px;
-    
     
 }
 

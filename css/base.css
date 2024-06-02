@@ -20,6 +20,7 @@ font-family: var(--mainfont);
 .container{
 width:calc(100%-120ox) ;
 margin:auto;
+padding: 10px;
 
 }
 
